@@ -1,0 +1,15 @@
+C:\Users\Alex\GB\C#\new\sem1\task9\bin\Debug\net6.0\task9.exe
+C:\Users\Alex\GB\C#\new\sem1\task9\bin\Debug\net6.0\task9.deps.json
+C:\Users\Alex\GB\C#\new\sem1\task9\bin\Debug\net6.0\task9.runtimeconfig.json
+C:\Users\Alex\GB\C#\new\sem1\task9\bin\Debug\net6.0\task9.dll
+C:\Users\Alex\GB\C#\new\sem1\task9\bin\Debug\net6.0\task9.pdb
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\task9.csproj.AssemblyReference.cache
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\task9.AssemblyInfoInputs.cache
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\task9.AssemblyInfo.cs
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\task9.csproj.CoreCompileInputs.cache
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\task9.dll
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\refint\task9.dll
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\task9.pdb
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\task9.genruntimeconfig.cache
+C:\Users\Alex\GB\C#\new\sem1\task9\obj\Debug\net6.0\ref\task9.dll
